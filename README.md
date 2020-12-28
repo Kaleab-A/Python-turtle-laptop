@@ -1,5 +1,5 @@
 # Python-turtle-laptop
-A 3d looking laptop drawing made using python turtle libirary.
+A 3d looking laptop drawing made using python turtle library.
 
 # Requirements
 * Python 3
